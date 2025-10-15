@@ -1,6 +1,14 @@
 # TapiwaZvomuya.github.io
 ## Engineering Management & Leadership specializing in Energy Transition and Sustainability
 
+### 🔧👩‍💻 About Me  
+- 🌍 From **Zimbabwe**, currently based in **Houston, TX**  
+- 🧠 Interested in **energy transition**, **circular economy**, and **smart manufacturing**  
+- 🤖 Experienced in **data science**, **polymer engineering**, and **machine learning applications** in materials processing  
+- 🏭 Former **Quality Control Manager** at **Driptech Irrigation**, leading ISO 9001:2015 initiatives and R&D expansion  
+- 🧑‍🏫 **Teaching Assistant** at Rice University for *Data Science for Engineers* — mentoring students and managing GitHub-based coursework  
+
+
 ### 🎓Education
 Master of Engineering Management and Leadership, Energy Transition and Sustainability 
 Bachelor of Technology in Polymer Technology and Engineering
