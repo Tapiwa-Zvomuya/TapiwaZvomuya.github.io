@@ -6,7 +6,7 @@
 - 🧠 Interested in **energy transition**, **circular economy**, and **smart manufacturing**  
 - 🤖 Experienced in **data science**, **polymer engineering**, and **machine learning applications** in materials processing  
 - 🏭 Former **Quality Control Manager** at **Driptech Irrigation**, leading ISO 9001:2015 initiatives and R&D expansion  
-- 🧑‍🏫 **Teaching Assistant** at Rice University for *Data Science for Engineers* — mentoring students and managing GitHub-based coursework  
+- 🧑‍🏫 **Teaching Assistant** at Rice University for *Data Science for Engineers* 
 
 
 ### 🎓Education
