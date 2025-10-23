@@ -2,7 +2,7 @@
 ## Engineering Management & Leadership specializing in Energy Transition and Sustainability
 
 ### 🔧👩‍💻 About Me  
-- 🌍 From **Zimbabwe**, currently based in **Houston, TX**  
+- From **Zimbabwe**, currently based in **Houston, TX**  
 - Interested in **energy transition**, **circular economy**, and **smart manufacturing**  
 - Experienced in **data science**, **polymer engineering**, and **machine learning applications** in materials processing  
 - Former **Quality Control Manager** at **Driptech Irrigation**, leading ISO 9001:2015 initiatives and R&D expansion  
@@ -37,7 +37,7 @@ PET blow molding plant based on material ultrasonic waves absorption
 ### 🏆Regional and International Awards
 • 2nd Runner-up ASEM Case Study Competition
 • NSBE Houston Professionals Scholarship for Academic Excellence
-![Scholarship Screenshot](https://github.com/Tapiwa-Zvomuya/TapiwaZvomuya.github.io/blob/main/IMG-20250717-WA0026.jpg)
+  ![Scholarship Screenshot](https://github.com/Tapiwa-Zvomuya/TapiwaZvomuya.github.io/blob/main/IMG-20250717-WA0026.jpg)
 • Vice Chancellor's Prize for the Best Graduating Student in Polymer Technology and Engineering                      
 • HIT Book Prize for the Best Capstone Design Project                      
 • UNESCO/ ECSA (Engineering Council of South Africa) best SDG 9 poster competition project in Africa 
@@ -45,5 +45,5 @@ PET blow molding plant based on material ultrasonic waves absorption
 ### 📫 Let’s Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/tapiwazvomuya/)  
 - ✉️ Email: [tz52@rice.edu](mailto:tz52@rice.edu)  
-- 🌐 [GitHub Portfolio](https://github.com/tapiwazvomuya)](https://tapiwa-zvomuya.github.io/TapiwaZvomuya.github.io/)
+- 🌐 [GitHub Portfolio]:(https://github.com/tapiwazvomuya)](https://tapiwa-zvomuya.github.io/TapiwaZvomuya.github.io/)
 
