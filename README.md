@@ -37,7 +37,7 @@ PET blow molding plant based on material ultrasonic waves absorption
 ### 🏆Regional and International Awards
 • 2nd Runner-up ASEM Case Study Competition
 • NSBE Houston Professionals Scholarship for Academic Excellence
-![Scholarship Screenshot]()
+![Scholarship Screenshot](https://github.com/Tapiwa-Zvomuya/TapiwaZvomuya.github.io/blob/main/IMG-20250717-WA0026.jpg)
 • Vice Chancellor's Prize for the Best Graduating Student in Polymer Technology and Engineering                      
 • HIT Book Prize for the Best Capstone Design Project                      
 • UNESCO/ ECSA (Engineering Council of South Africa) best SDG 9 poster competition project in Africa 
