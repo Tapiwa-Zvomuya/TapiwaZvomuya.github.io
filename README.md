@@ -22,13 +22,7 @@
 PET blow molding plant based on material ultrasonic waves absorption
 
 
-<img src='Mechanical System design overview.png' width=200>
-
-<img src='Process layout flow-diagram.png' width=200>
-
-<img src='Sensor Calibration Results.png' width=200>
-
-<img src='Robotic arm and sensor system.png' width=200>
+<img src='Mechanical System design overview.png' width=200> <img src='Process layout flow-diagram.png' width=200> <img src='Sensor Calibration Results.png' width=200> <img src='Robotic arm and sensor system.png' width=200>
 
 
 ### 💼Work Experience
