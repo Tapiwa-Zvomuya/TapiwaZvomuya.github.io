@@ -32,7 +32,10 @@ PET blow molding plant based on material ultrasonic waves absorption
 5. AgriPrec start-up project with Tex-E - Decarbonation of the Agriculture sector using Drone technology and AI to optimize fertilizer application on farms
 
 ### 💼Work Experience
-• Student Co-Chair, Rice Global Forum (RGF)       
+• Student Co-Chair, Rice Global Forum (RGF) 
+
+<img src='RGF.jpeg' width=400> 
+
 • Teaching Assistant, Data Science for Engineers (RCEL)
 • Assistant Coordinator, Rice Elite Tech Summer Camp (RCEL) 
 • Quality Control Manager (DripTech Irrigation) 
