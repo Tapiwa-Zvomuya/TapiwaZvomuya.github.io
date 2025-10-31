@@ -21,6 +21,17 @@
 3. Defect detection Robotic arm - Designed and fabricated a robotic arm for wall thickness variation detection in Polyethylene Terephthalate (PET) bottles in a 
 PET blow molding plant based on material ultrasonic waves absorption
 
+<p align="center">
+  <a href="https://colab.research.google.com/drive/1ltBDWCpyxy5PYP8twk6xT5ooU3SNAatI?usp=drive_link" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/yourusername/yourrepo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Repository-black?logo=github" alt="GitHub Repo"/>
+  </a>
+</p>
+
+
 <img src='Mechanical System design overview.png' width=400>
 
 <img src='Process layout flow-diagram.png' width=400>
