@@ -36,6 +36,7 @@ PET blow molding plant based on material ultrasonic waves absorption
 
 ### 🏆Regional and International Awards
 • 2nd Runner-up ASEM Case Study Competition
+
  <img src='ASEM.jpeg' width=400>
  <img src='ASEM 2.jpeg' width=400>
  
