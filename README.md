@@ -1,7 +1,7 @@
 # TapiwaZvomuya.github.io
 ## Engineering Management & Leadership specializing in Energy Transition and Sustainability
 
-### 🔧👩‍💻 About Me  
+### 🔧👩‍💻 Get to know me 
 - From **Zimbabwe**, currently based in **Houston, TX**  
 - Interested in **energy transition**, **circular economy**, and **smart manufacturing**  
 - Experienced in **data science**, **polymer engineering**, and **machine learning applications** in materials processing  
@@ -9,17 +9,27 @@
 - **Teaching Assistant** at Rice University for *Data Science for Engineers* 
 
 
-### 🎓Education
-Master of Engineering Management and Leadership, Energy Transition and Sustainability 
-Bachelor of Technology in Polymer Technology and Engineering
+### Education
+*Master of Engineering Management and Leadership, Energy Transition and Sustainability*
+*Bachelor of Technology in Polymer Technology and Engineering*
 
-### 🧩Projects
+### Projects
 1. Leveraging Data Science to Predict and Prevent Manufacturing Defects - Created a data-driven Machine Learning model to predict and prevent manufacturing defects using KMeans clustering.
 
-2. Defect detection Robotic arm - Designed and fabricated a robotic arm for wall thickness variation detection in Polyethylene Terephthalate (PET) bottles in a 
+ <img src='PCA BiPlot.png' width=400>
+
+3. Defect detection Robotic arm - Designed and fabricated a robotic arm for wall thickness variation detection in Polyethylene Terephthalate (PET) bottles in a 
 PET blow molding plant based on material ultrasonic waves absorption
 
-3. AgriPrec start-up project with Tex-E - Decarbonation of the Agriculture sector using Drone technology and AI to optimize fertilizer application on farms
+<img src='Mechanical System design overview.png' width=400>
+
+<img src='Process layout flow-diagram.png' width=400>
+
+<img src='Sensor Calibration Results.png' width=400>
+
+<img src='Robotic arm and sensor system.png' width=400>
+
+5. AgriPrec start-up project with Tex-E - Decarbonation of the Agriculture sector using Drone technology and AI to optimize fertilizer application on farms
 
 ### 💼Work Experience
 • Student Co-Chair, Rice Global Forum (RGF)       
