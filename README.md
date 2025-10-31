@@ -21,53 +21,34 @@
 3. Defect detection Robotic arm - Designed and fabricated a robotic arm for wall thickness variation detection in Polyethylene Terephthalate (PET) bottles in a 
 PET blow molding plant based on material ultrasonic waves absorption
 
-<p align="center">
-  <a href="https://colab.research.google.com/drive/1ltBDWCpyxy5PYP8twk6xT5ooU3SNAatI?usp=drive_link" target="_blank">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/yourusername/yourrepo" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Repository-black?logo=github" alt="GitHub Repo"/>
-  </a>
-</p>
 
+<img src='Mechanical System design overview.png' width=200>
 
-<img src='Mechanical System design overview.png' width=400>
+<img src='Process layout flow-diagram.png' width=200>
 
-<img src='Process layout flow-diagram.png' width=400>
+<img src='Sensor Calibration Results.png' width=200>
 
-<img src='Sensor Calibration Results.png' width=400>
+<img src='Robotic arm and sensor system.png' width=200>
 
-<img src='Robotic arm and sensor system.png' width=400>
-
-5. AgriPrec start-up project with Tex-E - Decarbonation of the Agriculture sector using Drone technology and AI to optimize fertilizer application on farms
 
 ### 💼Work Experience
 • Student Co-Chair, Rice Global Forum (RGF) 
-
-<img src='RGF.jpeg' width=400> 
-
 • Teaching Assistant, Data Science for Engineers (RCEL)
 • Assistant Coordinator, Rice Elite Tech Summer Camp (RCEL) 
 • Quality Control Manager (DripTech Irrigation) 
 • R&D Lead, PVC Product Line Expansion – designed new in-line processing systems for pipes up to 1000mm diameter  
  
 
-### 🎯Professional Volunteer Experience
-• Student Connect Trust (Assistant Programs Manager)
-• Collaborative for Children 
-• Rice Centre for Engineering Leadership
-
 ### 🏆Regional and International Awards
 • 2nd Runner-up ASEM Case Study Competition
 
- <img src='ASEM.jpeg' width=400>
+ <img src='ASEM.jpeg' width=200>
  
- <img src='ASEM 2.jpeg' width=400>
+ <img src='ASEM 2.jpeg' width=200>
  
 • NSBE Houston Professionals Scholarship for Academic Excellence
 
- <img src='IMG-20250717-WA0026.jpg' width=400> 
+ <img src='IMG-20250717-WA0026.jpg' width=200> 
   
 • Vice Chancellor's Prize for the Best Graduating Student in Polymer Technology and Engineering 
 • HIT Book Prize for the Best Capstone Design Project                      
