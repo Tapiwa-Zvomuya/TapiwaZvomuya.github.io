@@ -38,10 +38,12 @@ PET blow molding plant based on material ultrasonic waves absorption
 • 2nd Runner-up ASEM Case Study Competition
 
  <img src='ASEM.jpeg' width=400>
+ 
  <img src='ASEM 2.jpeg' width=400>
  
 • NSBE Houston Professionals Scholarship for Academic Excellence
-  <img src='IMG-20250717-WA0026.jpg' width=400> 
+
+ <img src='IMG-20250717-WA0026.jpg' width=400> 
   
 • Vice Chancellor's Prize for the Best Graduating Student in Polymer Technology and Engineering 
 • HIT Book Prize for the Best Capstone Design Project                      
