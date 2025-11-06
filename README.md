@@ -21,25 +21,29 @@
 3. Defect detection Robotic arm - Designed and fabricated a robotic arm for wall thickness variation detection in Polyethylene Terephthalate (PET) bottles in a 
 PET blow molding plant based on material ultrasonic waves absorption.
 
-(a) Mechanical System design overview
+   (a) Mechanical System design overview
 
-(b) Robotic arm and sensor system
+   (b) Robotic arm and sensor system
 
-(c) Process layout flow-diagram
+   (c) Process layout flow-diagram
 
-(d) Sensor Calibration Results
+   (d) Sensor Calibration Results
 
 
   a)  <img src='Mechanical System design overview.png' width=200>  b)  <img src='Robotic arm and sensor system.png' width=200>
 
-  c)   <img src='Process layout flow-diagram.png' width=200>         d) <img src='Sensor Calibration Results.png' width=200> 
+  c)   <img src='Process layout flow-diagram.png' width=200>       d) <img src='Sensor Calibration Results.png' width=200> 
 
 
 ### 💼Work Experience
 • Student Co-Chair, Rice Global Forum (RGF) 
+
 • Teaching Assistant, Data Science for Engineers (RCEL)
-• Assistant Coordinator, Rice Elite Tech Summer Camp (RCEL) 
+
+• Assistant Coordinator, Rice Elite Tech Summer Camp (RCEL)
+
 • Quality Control Manager (DripTech Irrigation) 
+
 • R&D Lead, PVC Product Line Expansion – designed new in-line processing systems for pipes up to 1000mm diameter  
  
 
@@ -53,7 +57,9 @@ PET blow molding plant based on material ultrasonic waves absorption.
   <img src='IMG-20250717-WA0026.jpg' width=200> 
   
 • Vice Chancellor's Prize for the Best Graduating Student in Polymer Technology and Engineering 
+
 • HIT Book Prize for the Best Capstone Design Project                      
+
 • UNESCO/ ECSA (Engineering Council of South Africa) best SDG 9 poster competition project in Africa 
 
 ### 📫 Let’s Connect  
