@@ -19,12 +19,16 @@
    <img src='PCA BiPlot.png' width=400>
 
 3. Defect detection Robotic arm - Designed and fabricated a robotic arm for wall thickness variation detection in Polyethylene Terephthalate (PET) bottles in a 
-PET blow molding plant based on material ultrasonic waves absorption
+PET blow molding plant based on material ultrasonic waves absorption.
+(a) Mechanical System design overview
+(b) Robotic arm and sensor system
+(c) Process layout flow-diagram
+(d) Sensor Calibration Results.png
 
 
-   <img src='Mechanical System design overview.png' width=200>  <img src='Robotic arm and sensor system.png' width=200>
+   a) <img src='Mechanical System design overview.png' width=200>  b) <img src='Robotic arm and sensor system.png' width=200>
 
-  <img src='Process layout flow-diagram.png' width=200>         <img src='Sensor Calibration Results.png' width=200> 
+  c) <img src='Process layout flow-diagram.png' width=200>         d) <img src='Sensor Calibration Results.png' width=200> 
 
 
 ### 💼Work Experience
@@ -38,7 +42,7 @@ PET blow molding plant based on material ultrasonic waves absorption
 ### 🏆Regional and International Awards
 • 2nd Runner-up ASEM Case Study Competition
 
-  <img src='ASEM.jpeg' width=200>      <img src='ASEM 2.jpeg' width=200>
+  <img src='ASEM.jpeg' width=200>     
  
 • NSBE Houston Professionals Scholarship for Academic Excellence
 
