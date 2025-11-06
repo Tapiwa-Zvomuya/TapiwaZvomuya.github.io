@@ -16,15 +16,15 @@
 ### Projects
 1. Leveraging Data Science to Predict and Prevent Manufacturing Defects - Created a data-driven Machine Learning model to predict and prevent manufacturing defects using KMeans clustering.
 
-                                                        <img src='PCA BiPlot.png' width=400>
+   <img src='PCA BiPlot.png' width=400>
 
 3. Defect detection Robotic arm - Designed and fabricated a robotic arm for wall thickness variation detection in Polyethylene Terephthalate (PET) bottles in a 
 PET blow molding plant based on material ultrasonic waves absorption
 
 
-                    <img src='Mechanical System design overview.png' width=200>  <img src='Robotic arm and sensor system.png' width=200>
+   <img src='Mechanical System design overview.png' width=200>  <img src='Robotic arm and sensor system.png' width=200>
 
-                    <img src='Process layout flow-diagram.png' width=200>         <img src='Sensor Calibration Results.png' width=200> 
+  <img src='Process layout flow-diagram.png' width=200>         <img src='Sensor Calibration Results.png' width=200> 
 
 
 ### 💼Work Experience
@@ -38,11 +38,11 @@ PET blow molding plant based on material ultrasonic waves absorption
 ### 🏆Regional and International Awards
 • 2nd Runner-up ASEM Case Study Competition
 
-                                            <img src='ASEM.jpeg' width=200>      <img src='ASEM 2.jpeg' width=200>
+  <img src='ASEM.jpeg' width=200>      <img src='ASEM 2.jpeg' width=200>
  
 • NSBE Houston Professionals Scholarship for Academic Excellence
 
-                                                      <img src='IMG-20250717-WA0026.jpg' width=200> 
+  <img src='IMG-20250717-WA0026.jpg' width=200> 
   
 • Vice Chancellor's Prize for the Best Graduating Student in Polymer Technology and Engineering 
 • HIT Book Prize for the Best Capstone Design Project                      
